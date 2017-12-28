@@ -5,10 +5,6 @@
     margin-bottom: 10px;
 }
 
-span {
-    font-weight: bold;
-}
-
 .fact{
     font-style: italic;
 }
@@ -26,8 +22,11 @@ span {
     text-align: justify;
 }
 
-ul{
+.list{
     list-style-type: none;
     padding: 0;
 }
 
+.list-item {
+    font-weight: bold;
+}
